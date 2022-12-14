@@ -18,4 +18,4 @@ My GitHub page is http://github.com/skuma07.
 
 * Lab 10
 
-    Lab 10, part 1 is my third favorite lab because I feel like the complexity of the work I was doing in my lab course scaled up since this lab was the first in which I was working with multiple files. The overall program I made was simple, it just calculated the area of a rectangle. However, this lab was an effective introduction in teaching me the benefits of using multiple files for a program.
+    Lab 10, part 1 is my third favorite lab because I feel like the complexity of the work I was doing scaled up since this lab was the first in which I was working with multiple files. The overall program I made was simple: it just calculated the area of a rectangle. However, this lab was an effective introduction in teaching me the benefits of using multiple files for a program.
