@@ -4,7 +4,7 @@ This is my home page! My name is Sathya Kumaraguru and I am a student at [Cal St
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/skuma07.](http://github.com/skuma07)
+My GitHub page is [http://github.com/skuma07](http://github.com/skuma07).
 
 ### CPSC 120
 
