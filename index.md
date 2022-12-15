@@ -10,7 +10,7 @@ My GitHub page is http://github.com/skuma07.
 
 * Lab 2
 
-    Lab 2, part 2 was one of my first and favorite labs because it was one to really solidify my interest in Computer Science. In this lab I had to create a program that solves a quadratic equation. This lab was to help me practice and understand how variable initialization and arithmetic in C++ works. With math being my favorite subject, I really enjoyed making this program since sometimes I personally make use of this program in order to check my answers whenever I solve quadratic equations.
+    Lab 2, part 2 was one of my first and one of my favorite labs because it was one to really solidify my interest in Computer Science. In this lab I had to create a program that solves a quadratic equation. This lab was to help me practice and understand how variable initialization and arithmetic in C++ works. With math being my favorite subject, I really enjoyed making this program since sometimes I personally make use of this program in order to check my answers whenever I solve quadratic equations.
 
 * Lab 5
 
